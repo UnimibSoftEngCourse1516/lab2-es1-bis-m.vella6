@@ -2,3 +2,6 @@
 
 Initial content of the first document.
 Additional content to the first document.
+
+## Third document
+file3
